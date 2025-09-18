@@ -301,13 +301,13 @@
           { "artist": "VASTIVE B2B RZRKT", "start": "16:30", "end": "17:30" },
           { "artist": "FUNTCASE", "start": "17:30", "end": "18:30" },
           { "artist": "LAYZ", "start": "18:30", "end": "19:30" },
-          { "artist": "ILLENIUM", "start": "19:30", "end": "20:30" },
+          { "artist": "ILLENIUM Sunset Set", "start": "19:30", "end": "20:30" },
           { "artist": "SPACE LACES", "start": "20:30", "end": "21:30" },
           { "artist": "PEEKABOO", "start": "21:30", "end": "22:45" },
           {
             "artist": "SVDDEN DEATH PRESENTS: VOYD",
             "start": "22:45",
-            "end": "00:15"
+            "end": "00:00"
           },
           { "artist": "STONED TO DEATH", "start": "00:15", "end": "02:05" },
           { "artist": "BENDA", "start": "02:05", "end": "03:00" },
@@ -324,7 +324,7 @@
           { "artist": "ALIENPARK", "start": "17:30", "end": "18:35" },
           { "artist": "HAIRITAGE", "start": "18:35", "end": "19:40" },
           { "artist": "SAMPLIFIRE", "start": "19:40", "end": "20:45" },
-          { "artist": "INFEKT", "start": "20:45", "end": "21:50" },
+          { "artist": "INFEKT & FRIENDS", "start": "20:45", "end": "21:50" },
           { "artist": "MUST DIE!", "start": "21:50", "end": "22:55" },
           { "artist": "RIOT TEN", "start": "22:55", "end": "00:00" },
           { "artist": "SURPRISE TAKEOVERS", "start": "00:00", "end": "04:00" }
@@ -456,134 +456,65 @@
     {
       "category": "Essentials",
       "items": [
-        "Wristbands",
+        "Wristband",
         "ID / Wallet",
-        "Boarding Pass",
-        "Reusable Water Bottle (x1)"
-      ]
-    },
-    {
-      "category": "Clothing",
-      "items": [
-        "Underwear (x5)",
-        "Socks (x5)",
-        "Extra Socks (x2)",
-        "Daytime Casual Outfit (x1)",
-        "Travel Outfit (x1)",
-        "Comfy Sleep Shirt / Shorts (x2)",
-        "Flip Flops (x1)",
-        "Walking Shoes or Sneakers (x1)",
-        "Light Hoodie or Jacket (x1)",
-        "Lightweight Long Sleeve Shirt (x1)",
-        "Bandana / Scarf (x1)",
-        "Regular Hat",
-        "Bucket Hat",
-        "Red Sunglasses (x1)",
-        "Festival Outfits (x3)",
-        "Mothman Costume (x1)",
-        "Fanny Pack (x1)",
-        "Pashmina (x1)",
-        "Wizard Robe (x1)",
-        "Festival Cloak (x1)",
-        "Leg Warmer Fluffies / Fluffs / Furry Leg Warmers (x1)",
-        "Clip-on Cat Ears (x1)",
-        "LED Accessories (x1)",
-        "Face Gems / Glitter (x1)",
-        "Temporary Tattoos (x1)"
-      ]
-    },
-    {
-      "category": "Toiletries",
-      "items": [
-        "Prescription Meds!! (x1)",
-        "Toothbrush (x1)",
-        "Toothpaste (travel size) (x1)",
-        "Floss (x1)",
-        "Deodorant (x1)",
-        "Razor (x1)",
-        "Hairbrush / Comb (x1)",
-        "Shampoo / Body Wash (travel size) (x1)",
-        "Contacts & Case (x1)",
-        "Contact Solution (small) (x1)",
-        "Sunscreen (travel size) (x1)",
-        "SPF Lip Balm (x1)",
-        "Body Wipes / Baby Wipes (x1)",
-        "Tissues / Travel TP (x1)",
-        "Mini Hand Sanitizer",
-        "Carmex",
-        "Spare Hair Ties or Scrunchies",
-        "Nail Clippers ",
-        "Tweezers",
-        "Lint Roller (travel size)",
-        "Mini Mirror"
-      ]
-    },
-    {
-      "category": "Electronics",
-      "items": [
-        "Phone + Charger Cable (x1)",
-        "iPad & Pencil & Pencil Adapter (x1)",
-        "Laptop & Charger (x1)",
-        "Battery Packs (x2)",
-        "Wall Plug Adapter (x1)",
-        "AirPods (x1)",
-        "Apple Watch Charger (x1)",
-        "Portable Mini Fan (x1)"
-      ]
-    },
-    {
-      "category": "Festival Grounds Gear",
-      "items": [
-        "Fanny Pack",
-        "LunchBox",
-        "Dust Mask",
-        "Flashlight or Headlamp",
+        "Phone",
+        "Battery Pack",
+        "Reusable Water Bottle or CamelBak",
         "Earplugs",
         "Electrolyte Powder or Liquid IV",
-        "Mini LED String Lights"
-      ]
-    },
-
-    {
-      "category": "Travel Utility Gear",
-      "items": [
-        "Trash Bag for Dirty Clothes",
-        "Plastic Grocery Bag (for shoes/laundry)",
-        "Extra Batteries",
-        "Reusable Tote Bag",
-        "Lighter",
-        "Glasses Cleaner Kit",
-        "Glasses cases"
+        "Dust Mask or N95",
+        "Mini Hand Sanitizer",
+        "Sunscreen (travel size)",
+        "SPF Lip Balm"
       ]
     },
     {
-      "category": "Gear",
+      "category": "Bag Options",
       "items": [
-        "Camelbak or Small Hydration Pack (x1)",
-        "Mini Hand Sanitizer (x1)",
-        "Clear Backpack / Fanny Pack (x1)",
-        "Earplugs (x1)",
-        "Dust Mask or N95 (x1)",
-        "Cooling Towel / Band (x1)",
-        "Small Flashlight or Headlamp (x1)"
+        "Clear Backpack",
+        "Fanny Pack",
+        "CamelBak or Hydration Pack",
+        "Lunchbox"
       ]
     },
     {
-      "category": "Fun Extras",
+      "category": "Outfit Accessories",
       "items": [
-        "LED Poi",
-        "Hackie Sack",
-        "Deck of Cards",
-        "Diffraction glasses",
-        "Sketchpad + Pens",
-        "Polaroid or Instax Camera",
+        "Pashmina",
+        "Festival Cloak",
+        "Wizard Robe",
+        "Mothman Costume",
+        "Clip-on Cat Ears",
+        "Leg Warmer Fluffies",
+        "Bucket Hat",
+        "Bandana or Scarf",
+        "LED Accessories",
+        "Mini LED String Lights",
+        "Funky Folding Fan",
+        "Diffraction Glasses",
+        "Face Gems / Glitter"
+      ]
+    },
+    {
+      "category": "Night Gear",
+      "items": [
+        "Small Flashlight or Headlamp",
+        "Mini Portable Fan",
+        "Extra Batteries"
+      ]
+    },
+    {
+      "category": "Creative Fun",
+      "items": [
+        "Sketchpad and Pens",
         "Notebook for Journaling or Poetry",
         "Craft Beads and String",
         "Face Paint Sticks",
-        "Stickers or Trinkets to Gift",
-        "Funky Folding Fan",
-        "Plastic Dinosaur Toy",
-        "Tarot Deck"
+        "Hackie Sack",
+        "LED Poi",
+        "Deck of Cards",
+        "Plastic Dinosaur Toy"
       ]
     }
   ],
@@ -719,12 +650,54 @@
       },
       "links": [
         {
-          "label": "Flight Info (Southwest)",
-          "url": "https://www.flightradar24.com/data/flights/"
+          "label": "SOUTHWEST 744 - OAK to DEN ",
+          "url": "https://www.flightaware.com/live/flight/SWA744"
+        },
+        {
+          "label": "SOUTHWEST 744 - DEN to CMH ",
+          "url": "https://www.flightaware.com/live/flight/SWA2434"
         }
       ],
       "status": "confirmed",
-      "notes": "Change planes in Las Vegas (LAS). Arrives OAK at 9:35 PM local time. Total travel time 6h 30m."
+      "notes": "Total travel time: 6h 30m. Flight 1 (CMH → LAS) is ~4h 30m. Layover in Las Vegas is ~55m. Flight 2 (LAS → OAK) is ~1h 5m. Arrives OAK at 9:35 PM local time."
+    }
+  ],
+  "weather": [
+    {
+      "day": "Friday",
+      "date": "2025-09-19",
+      "icon": "🌤️",
+      "high": "87°F",
+      "low": "56°F",
+      "humidityDay": "55%",
+      "humidityNight": "75%",
+      "conditions": "Partly Sunny",
+      "note": "Warm and pleasant. Hydrate & wear sunscreen during peak sun hours.",
+      "borderColor": "#FFD700"
+    },
+    {
+      "day": "Saturday",
+      "date": "2025-09-20",
+      "icon": "☀️",
+      "high": "87°F",
+      "low": "59°F",
+      "humidityDay": "55%",
+      "humidityNight": "78%",
+      "conditions": "Mostly Sunny",
+      "note": "Hot afternoon sun — expect dusty vibes. Chill nights, bring a light jacket.",
+      "borderColor": "#FF8C00"
+    },
+    {
+      "day": "Sunday",
+      "date": "2025-09-21",
+      "icon": "⛈️",
+      "high": "83°F",
+      "low": "62°F",
+      "humidityDay": "60%",
+      "humidityNight": "85%",
+      "conditions": "Clouds & Thunderstorms",
+      "note": "Scattered storms possible after 2pm. Bring a poncho or waterproof gear!",
+      "borderColor": "#00BFFF"
     }
   ]
 }

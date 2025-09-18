@@ -5,9 +5,12 @@ import utc from 'dayjs/plugin/utc';
 import timezone from 'dayjs/plugin/timezone';
 import data from './data.json';
 
+import ArtistBrowser from './components/ArtistBrowser';
 import InfoCard from './components/InfoCard';
 import PackingList from './components/PackingList';
 import Schedule from './components/Schedule';
+import WeatherInfoCards from './components/WeatherInfoCars';
+
 dayjs.extend(utc);
 dayjs.extend(timezone);
 
@@ -112,17 +115,12 @@ export default function App() {
         <h1>🦖 Dino Rave to Lost Lands 2025 🦕</h1>
         <Countdown>{countdown}</Countdown>
 
-        <SectionTitle>Artist Lineup ({data.lineup.length})</SectionTitle>
-        <ScrollWindow>
-          <LineupList>
-            {data.lineup.map((artist, i) => (
-              <LineupItem key={i}>{artist}</LineupItem>
-            ))}
-          </LineupList>
-        </ScrollWindow>
-        <PackingList items={data.items} />
         <SectionTitle>Artist Lineup </SectionTitle>
+        {/* <ScrollWindow> */}
+        <ArtistBrowser schedule={data.schedule} />
+        {/* </ScrollWindow> */}
 
+        <SectionTitle>Festival Schedule </SectionTitle>
         <div>
           <Schedule schedule={data.schedule} />
         </div>
@@ -131,6 +129,14 @@ export default function App() {
         {data.info.map((card, i) => (
           <InfoCard key={i} data={card} />
         ))}
+
+        <SectionTitle>Festival Info</SectionTitle>
+        <WeatherInfoCards weather={data.weather} />
+
+        <SectionTitle>
+          Exploration of the Lost Lands Adventure's Checklist
+        </SectionTitle>
+        <PackingList items={data.items} />
       </Wrapper>
     </>
   );

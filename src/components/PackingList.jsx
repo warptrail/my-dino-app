@@ -7,14 +7,6 @@ const Section = styled.section`
   margin-top: 2rem;
 `;
 
-const Title = styled.h2`
-  color: #00ffcc;
-  font-size: 1.4rem;
-  border-bottom: 2px dashed #00ffcc;
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
-`;
-
 const CategoryTitle = styled.h3`
   font-size: 1.1rem;
   color: #ffe100;
@@ -77,7 +69,6 @@ export default function PackingList({ items }) {
 
   return (
     <Section>
-      <Title>🧳 Packing List</Title>
       {items.map((group, i) => (
         <div key={i}>
           <CategoryTitle>{group.category}</CategoryTitle>
