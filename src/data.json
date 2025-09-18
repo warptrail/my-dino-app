@@ -1,0 +1,731 @@
+{
+  "lineup": [
+    "Acraze",
+    "Afterxheaven",
+    "Ahee",
+    "Alienpark",
+    "Alleycvtt",
+    "All The Reason",
+    "Andy C",
+    "Armnhmr",
+    "Atliens",
+    "Audiofreq",
+    "Automhate",
+    "Avance",
+    "Badger",
+    "Badklatt",
+    "Badvoid",
+    "Barely Alive",
+    "Beastboi.",
+    "Bear Grillz",
+    "Bella Renee",
+    "Benda",
+    "Bijou",
+    "Blossom",
+    "Boogie T",
+    "Bommer",
+    "Brainrack",
+    "Calcium",
+    "Canabliss",
+    "Capochino",
+    "Chassi",
+    "Chibs",
+    "Chmura",
+    "Codd Dubz",
+    "Contra",
+    "Control Freak",
+    "Crankdat",
+    "Criso",
+    "Crystal Skies",
+    "Cyclops",
+    "Dab The Sky (Dabin + Said The Sky)",
+    "DAGGZ",
+    "Deadroom",
+    "Decimate",
+    "Defier",
+    "Diezel",
+    "Dion Timmer",
+    "Distinct Motive",
+    "Domina",
+    "Dr. Ushūu",
+    "Dream Takers",
+    "Drinkurwater",
+    "Eddie",
+    "Eazybaked",
+    "Effin",
+    "Eliminate",
+    "Emorfik",
+    "Epic",
+    "Excision (2 Hour Set)",
+    "Excision B2B Subtronics",
+    "Excision (Detox Set)",
+    "Fairlane",
+    "Flozeo",
+    "Focuss",
+    "Freaky",
+    "G-Rex",
+    "Ghost In Real Life",
+    "Good Times Ahead",
+    "Gunpoint",
+    "Hamro",
+    "Hedex",
+    "Hekler",
+    "Hexa",
+    "Heyz",
+    "HVDES",
+    "Humansion",
+    "Hydraulix",
+    "Infected Mushroom",
+    "Infekt",
+    "INZO",
+    "Ivy Lab",
+    "Jantsen",
+    "Jeanie",
+    "Jessica Audiffred",
+    "JKYL & Hyde",
+    "Jstjr",
+    "Josh Teed",
+    "Justin Hawkes",
+    "Kill Safari (Kill The Noise + Bro Safari)",
+    "Kill The Noise",
+    "Koan Sound",
+    "Kompany",
+    "KOVEN",
+    "Layz",
+    "Leotrix",
+    "Level Up",
+    "Lø Spirit",
+    "Louiejayxx",
+    "Luczid",
+    "LVNDR.SKY",
+    "Lszze (LSDream + CloZee)",
+    "Lync",
+    "Lyzza",
+    "Lynx",
+    "Machach",
+    "Mad Dubz",
+    "Mantis",
+    "Mashbit",
+    "Medicine Place",
+    "Midnight Tyrannosaurus",
+    "Mersiv",
+    "Modestep (DJ Set)",
+    "Moody Good",
+    "Mr. Bill",
+    "Mstic",
+    "Must Die!",
+    "Mythm",
+    "Nekoteq",
+    "Nikita",
+    "The Widdler",
+    "Nitepunk",
+    "Nvkst",
+    "OkayJake",
+    "One True God",
+    "Oliverse",
+    "Paper Skies",
+    "Perry Wayne",
+    "Phaseone",
+    "Phocust",
+    "Peekaboo",
+    "Pixel Terror",
+    "Pyke",
+    "RZRKT",
+    "Ravenscoon",
+    "Ray Volpe",
+    "Reaper",
+    "Rezz",
+    "Riot Ten",
+    "Saka",
+    "Samplifire",
+    "Saturnz",
+    "Scarexx",
+    "Shadient",
+    "Shanghai Doom",
+    "Shockone",
+    "Shiverz",
+    "Sippy",
+    "Sisto",
+    "Slander (Sunset Set)",
+    "Slimez",
+    "Smith",
+    "Smoakland",
+    "Sodown",
+    "Space Laces",
+    "Space Wizard",
+    "Spüke",
+    "Stoned Level",
+    "Stumpi",
+    "Stooki Sound",
+    "Subfiltronik",
+    "Subtronics",
+    "Sullivan King",
+    "Sully",
+    "Sumthin Sumthin",
+    "Superave.",
+    "Svdden Death Presents: VOYD",
+    "Tape B",
+    "The Arcturians",
+    "The Resistance",
+    "Trivecta",
+    "Tisoki",
+    "Torcha",
+    "Tsuruda",
+    "Vampa",
+    "Versa",
+    "Viperactive",
+    "VKTM",
+    "VlcN",
+    "VRG",
+    "Vhales",
+    "Werkoh",
+    "Wiley Wonka",
+    "WonkyWilla",
+    "Wraz.",
+    "Xotix",
+    "YDG",
+    "YetiEP",
+    "YUSUFLOW",
+    "Zingara"
+  ],
+  "schedule": [
+    {
+      "day": "Friday",
+      "stages": {
+        "Prehistoric Stage": [
+          { "artist": "Hamro", "start": "14:00", "end": "15:00" },
+          { "artist": "Badklaat", "start": "15:00", "end": "16:00" },
+          { "artist": "Cyclops", "start": "16:00", "end": "17:00" },
+          { "artist": "Calcium", "start": "17:00", "end": "18:00" },
+          { "artist": "Special Guest", "start": "18:00", "end": "19:00" },
+          { "artist": "Kompany", "start": "19:00", "end": "20:00" },
+          { "artist": "Level Up", "start": "20:00", "end": "21:00" },
+          { "artist": "Tape B", "start": "21:00", "end": "22:00" },
+          {
+            "artist": "Excision (2 Hour Set)",
+            "start": "22:10",
+            "end": "00:00"
+          }
+        ],
+        "Wompy Woods": [
+          { "artist": "Wonkywilla", "start": "14:30", "end": "15:30" },
+          { "artist": "Nikita, The Wicked", "start": "15:30", "end": "16:30" },
+          { "artist": "Sippy", "start": "16:30", "end": "17:30" },
+          { "artist": "Ravenscoon", "start": "17:30", "end": "18:30" },
+          { "artist": "Zingara", "start": "18:30", "end": "19:30" },
+          {
+            "artist": "Slander (Sunset Set)",
+            "start": "19:30",
+            "end": "20:30"
+          },
+          { "artist": "Ray Volpe", "start": "20:30", "end": "21:30" },
+          { "artist": "ARMNHMR", "start": "21:30", "end": "22:45" },
+          { "artist": "Boogie T", "start": "22:45", "end": "00:00" }
+        ],
+        "The Crater": [
+          { "artist": "Hydraulix", "start": "14:15", "end": "15:20" },
+          { "artist": "Ivory", "start": "15:20", "end": "16:25" },
+          { "artist": "He$h", "start": "16:25", "end": "17:30" },
+          { "artist": "G-Rex", "start": "17:30", "end": "18:35" },
+          { "artist": "Emorfik", "start": "18:35", "end": "19:40" },
+          { "artist": "Drinkurwater", "start": "19:40", "end": "20:45" },
+          { "artist": "Barely Alive", "start": "20:45", "end": "21:50" },
+          { "artist": "Chmura", "start": "21:50", "end": "22:55" },
+          { "artist": "Daggz", "start": "22:55", "end": "00:00" },
+          { "artist": "Surprise Takeovers", "start": "00:00", "end": "04:00" }
+        ],
+        "Forest Stage": [
+          { "artist": "Josh Teed", "start": "17:00", "end": "18:00" },
+          { "artist": "Tisoki", "start": "18:00", "end": "19:00" },
+          { "artist": "Effin", "start": "19:00", "end": "20:00" },
+          { "artist": "SoDown", "start": "20:00", "end": "21:00" },
+          { "artist": "Wreckno", "start": "21:00", "end": "22:00" },
+          { "artist": "Leotrix", "start": "22:00", "end": "23:00" },
+          { "artist": "SuperAve.", "start": "23:00", "end": "00:00" },
+          { "artist": "Ahee", "start": "00:00", "end": "01:00" },
+          { "artist": "Moody Good", "start": "01:00", "end": "02:00" },
+          { "artist": "Smith.", "start": "02:00", "end": "03:00" },
+          { "artist": "Sully", "start": "03:00", "end": "04:00" }
+        ],
+        "Subsidia Stage": [
+          { "artist": "Dream Takers", "start": "15:00", "end": "16:00" },
+          { "artist": "The Arcturians", "start": "16:00", "end": "17:00" },
+          { "artist": "Neotek", "start": "17:00", "end": "18:00" },
+          { "artist": "Nxsty", "start": "18:00", "end": "19:00" },
+          { "artist": "M?STIC", "start": "19:00", "end": "20:00" },
+          { "artist": "VRG", "start": "20:00", "end": "21:00" },
+          { "artist": "Bommer", "start": "21:00", "end": "22:00" },
+          { "artist": "Machaki", "start": "22:00", "end": "23:00" },
+          { "artist": "Hekler", "start": "23:00", "end": "00:00" },
+          { "artist": "Lyny", "start": "00:00", "end": "01:00" },
+          {
+            "artist": "Good Times Ahead (Trap Set)",
+            "start": "01:00",
+            "end": "02:00"
+          },
+          { "artist": "Stööki Sound", "start": "02:00", "end": "03:00" },
+          { "artist": "All The Reason", "start": "03:00", "end": "04:00" }
+        ],
+
+        "Grove Stage": [
+          { "artist": "SILENT DISCO", "start": "00:00", "end": "04:00" }
+        ]
+      }
+    },
+    {
+      "day": "Saturday",
+      "stages": {
+        "Prehistoric Stage": [
+          { "artist": "Wiley", "start": "14:00", "end": "15:00" },
+          { "artist": "Canabliss", "start": "15:00", "end": "16:00" },
+          { "artist": "Distinct Motive", "start": "16:00", "end": "16:55" },
+          { "artist": "Eazybaked", "start": "16:55", "end": "17:50" },
+          { "artist": "Dion Timmer", "start": "17:50", "end": "18:50" },
+          { "artist": "Eptic", "start": "18:50", "end": "19:50" },
+          {
+            "artist": "Mersiv b2b Smoakland",
+            "start": "19:50",
+            "end": "20:50"
+          },
+          { "artist": "Crankdat", "start": "20:50", "end": "21:50" },
+          { "artist": "Wooli", "start": "21:50", "end": "22:50" },
+          {
+            "artist": "LSZee (LSDream + Clozee)",
+            "start": "23:00",
+            "end": "00:00"
+          }
+        ],
+        "Wompy Woods": [
+          { "artist": "PROSECUTE", "start": "14:30", "end": "15:30" },
+          { "artist": "CODD DUBZ", "start": "15:30", "end": "16:30" },
+          { "artist": "VASTIVE B2B RZRKT", "start": "16:30", "end": "17:30" },
+          { "artist": "FUNTCASE", "start": "17:30", "end": "18:30" },
+          { "artist": "LAYZ", "start": "18:30", "end": "19:30" },
+          { "artist": "ILLENIUM", "start": "19:30", "end": "20:30" },
+          { "artist": "SPACE LACES", "start": "20:30", "end": "21:30" },
+          { "artist": "PEEKABOO", "start": "21:30", "end": "22:45" },
+          {
+            "artist": "SVDDEN DEATH PRESENTS: VOYD",
+            "start": "22:45",
+            "end": "00:15"
+          },
+          { "artist": "STONED TO DEATH", "start": "00:15", "end": "02:05" },
+          { "artist": "BENDA", "start": "02:05", "end": "03:00" },
+          { "artist": "WHALES", "start": "03:00", "end": "04:00" }
+        ],
+        "The Crater": [
+          { "artist": "GUNPOINT", "start": "14:15", "end": "15:20" },
+          { "artist": "HVDES", "start": "15:20", "end": "16:25" },
+          {
+            "artist": "MIDNIGHT TYRANNOSAURUS",
+            "start": "16:25",
+            "end": "17:30"
+          },
+          { "artist": "ALIENPARK", "start": "17:30", "end": "18:35" },
+          { "artist": "HAIRITAGE", "start": "18:35", "end": "19:40" },
+          { "artist": "SAMPLIFIRE", "start": "19:40", "end": "20:45" },
+          { "artist": "INFEKT", "start": "20:45", "end": "21:50" },
+          { "artist": "MUST DIE!", "start": "21:50", "end": "22:55" },
+          { "artist": "RIOT TEN", "start": "22:55", "end": "00:00" },
+          { "artist": "SURPRISE TAKEOVERS", "start": "00:00", "end": "04:00" }
+        ],
+        "Forest Stage": [
+          { "artist": "AFTERXHEAVEN", "start": "16:00", "end": "17:00" },
+          { "artist": "GHOST IN REAL LIFE", "start": "17:00", "end": "18:00" },
+          { "artist": "BLOSSOM", "start": "18:00", "end": "19:00" },
+          { "artist": "SIMULA", "start": "19:00", "end": "20:00" },
+          { "artist": "MODESTEP", "start": "20:00", "end": "21:00" },
+          { "artist": "REAPER", "start": "21:00", "end": "22:00" },
+          { "artist": "KOAN SOUND", "start": "22:00", "end": "23:00" },
+          { "artist": "ANDY C", "start": "23:00", "end": "00:00" },
+          { "artist": "IVY LAB", "start": "00:00", "end": "01:00" },
+          { "artist": "HEDEX", "start": "01:00", "end": "02:00" },
+          { "artist": "VENJENT", "start": "02:00", "end": "03:00" },
+          { "artist": "RIOT", "start": "03:00", "end": "04:00" }
+        ],
+        "Subsidia Stage": [
+          { "artist": "LAZRUS", "start": "15:00", "end": "16:00" },
+          { "artist": "FOCUSS", "start": "16:00", "end": "17:00" },
+          { "artist": "PHOCUST", "start": "17:00", "end": "18:00" },
+          { "artist": "HUMANSION", "start": "18:00", "end": "19:00" },
+          { "artist": "MAD DUBZ", "start": "19:00", "end": "20:00" },
+          { "artist": "DEUCEZ", "start": "20:00", "end": "21:00" },
+          { "artist": "DR. USHUU", "start": "21:00", "end": "22:00" },
+          { "artist": "TYNAN", "start": "22:00", "end": "23:00" },
+          { "artist": "SHANGHAI DOOM", "start": "23:00", "end": "00:00" },
+          { "artist": "JON CASEY", "start": "00:00", "end": "01:00" },
+          { "artist": "VIPERACTIVE", "start": "01:00", "end": "02:00" },
+          { "artist": "NITEPUNK", "start": "02:00", "end": "03:00" },
+          { "artist": "CONTROL FREAK", "start": "03:00", "end": "04:00" }
+        ],
+        "Raptor Alley": [
+          { "artist": "CRYSTAL SKIES", "start": "00:00", "end": "01:00" },
+          { "artist": "YETEP", "start": "01:00", "end": "02:00" },
+          { "artist": "FAIRLANE", "start": "02:00", "end": "03:00" },
+          { "artist": "PUSHING DAIZIES", "start": "03:00", "end": "04:00" }
+        ],
+        "Grove Stage": [
+          { "artist": "SILENT DISCO", "start": "00:00", "end": "04:00" }
+        ]
+      }
+    },
+    {
+      "day": "Sunday",
+      "stages": {
+        "Prehistoric Stage": [
+          { "artist": "KLIPTIC", "start": "14:00", "end": "14:55" },
+          { "artist": "WITCHING HOUR", "start": "15:00", "end": "15:50" },
+          { "artist": "JKYL & HYDE", "start": "15:50", "end": "16:45" },
+          { "artist": "ELIMINATE", "start": "16:45", "end": "17:40" },
+          { "artist": "GORILLAT", "start": "17:40", "end": "18:35" },
+          { "artist": "ALLEYCVT", "start": "18:35", "end": "19:30" },
+          { "artist": "INZO", "start": "19:30", "end": "20:25" },
+          { "artist": "REZZ", "start": "20:30", "end": "21:30" },
+          {
+            "artist": "EXCISION B2B SUBTRONICS",
+            "start": "21:30",
+            "end": "22:25"
+          }
+        ],
+        "The Crater": [
+          { "artist": "MEDICINE PLACE", "start": "14:15", "end": "15:30" },
+          { "artist": "WRAZ.", "start": "15:30", "end": "16:45" },
+          { "artist": "MYTHM", "start": "16:45", "end": "18:00" },
+          { "artist": "LOUIEJAYZZ", "start": "18:00", "end": "19:15" },
+          { "artist": "SPACE WIZARD", "start": "19:15", "end": "20:30" },
+          { "artist": "GHENGAR", "start": "20:30", "end": "21:45" },
+          { "artist": "SATURNA", "start": "21:45", "end": "23:00" },
+          { "artist": "SURPRISE TAKEOVERS", "start": "23:00", "end": "00:00" }
+        ],
+        "Wompy Woods": [
+          { "artist": "BRAINRACK", "start": "15:00", "end": "16:00" },
+          { "artist": "EATER", "start": "16:00", "end": "17:00" },
+          { "artist": "PHASEONE", "start": "17:00", "end": "18:00" },
+          { "artist": "JESSICA AUDIFFRED", "start": "18:00", "end": "18:55" },
+          { "artist": "EXCISION", "start": "19:00", "end": "19:50" },
+          { "artist": "SULLIVAN KING", "start": "19:50", "end": "20:50" },
+          { "artist": "ATLIENS", "start": "20:50", "end": "21:45" },
+          { "artist": "DAB THE SKY", "start": "21:45", "end": "23:00" },
+          { "artist": "RATED R", "start": "23:15", "end": "00:10" },
+          { "artist": "HURTBOX", "start": "00:10", "end": "01:05" },
+          { "artist": "SHIVERZ", "start": "01:05", "end": "02:00" },
+          { "artist": "NIMDA", "start": "02:00", "end": "03:00" }
+        ],
+        "Forest Stage": [
+          { "artist": "RYNS", "start": "16:00", "end": "17:00" },
+          { "artist": "MASHBIT", "start": "17:00", "end": "18:00" },
+          { "artist": "EDDIE", "start": "18:00", "end": "19:00" },
+          { "artist": "ONE TRUE GOD", "start": "19:00", "end": "20:00" },
+          { "artist": "BADGER", "start": "20:00", "end": "21:00" },
+          { "artist": "BIJOU", "start": "21:00", "end": "22:00" },
+          { "artist": "NOSTALGIX", "start": "22:00", "end": "23:00" },
+          { "artist": "ACRAZE", "start": "23:00", "end": "00:00" },
+          { "artist": "STUMPI", "start": "00:00", "end": "01:00" },
+          { "artist": "DEADROOM", "start": "01:00", "end": "02:00" },
+          { "artist": "JSTJR", "start": "02:00", "end": "03:00" }
+        ],
+        "Subsidia Stage": [
+          { "artist": "TWOPERCENT", "start": "16:00", "end": "17:00" },
+          { "artist": "HEXXA", "start": "17:00", "end": "18:00" },
+          { "artist": "SCAREXX", "start": "18:00", "end": "19:00" },
+          { "artist": "VLCN", "start": "19:00", "end": "20:00" },
+          { "artist": "PERRY WAYNE", "start": "20:00", "end": "21:00" },
+          { "artist": "FREAKY", "start": "21:00", "end": "22:00" },
+          { "artist": "RUVLO", "start": "22:00", "end": "23:00" },
+          { "artist": "JUSTIN HAWKES", "start": "23:00", "end": "00:00" },
+          { "artist": "SOTA", "start": "00:00", "end": "01:00" },
+          { "artist": "LIQUID SMOAK", "start": "01:00", "end": "02:00" }
+        ],
+        "Raptor Alley": [
+          { "artist": "YOSUF", "start": "23:00", "end": "00:00" },
+          { "artist": "AUDIOFREQ", "start": "00:00", "end": "01:00" },
+          { "artist": "DOMINA", "start": "01:00", "end": "02:00" },
+          {
+            "artist": "EXCISION PRESENTS TAKEOVER",
+            "start": "02:00",
+            "end": "03:00"
+          }
+        ],
+        "Grove Stage": [
+          { "artist": "SILENT DISCO", "start": "00:00", "end": "04:00" }
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "category": "Essentials",
+      "items": [
+        "Wristbands",
+        "ID / Wallet",
+        "Boarding Pass",
+        "Reusable Water Bottle (x1)"
+      ]
+    },
+    {
+      "category": "Clothing",
+      "items": [
+        "Underwear (x5)",
+        "Socks (x5)",
+        "Extra Socks (x2)",
+        "Daytime Casual Outfit (x1)",
+        "Travel Outfit (x1)",
+        "Comfy Sleep Shirt / Shorts (x2)",
+        "Flip Flops (x1)",
+        "Walking Shoes or Sneakers (x1)",
+        "Light Hoodie or Jacket (x1)",
+        "Lightweight Long Sleeve Shirt (x1)",
+        "Bandana / Scarf (x1)",
+        "Regular Hat",
+        "Bucket Hat",
+        "Red Sunglasses (x1)",
+        "Festival Outfits (x3)",
+        "Mothman Costume (x1)",
+        "Fanny Pack (x1)",
+        "Pashmina (x1)",
+        "Wizard Robe (x1)",
+        "Festival Cloak (x1)",
+        "Leg Warmer Fluffies / Fluffs / Furry Leg Warmers (x1)",
+        "Clip-on Cat Ears (x1)",
+        "LED Accessories (x1)",
+        "Face Gems / Glitter (x1)",
+        "Temporary Tattoos (x1)"
+      ]
+    },
+    {
+      "category": "Toiletries",
+      "items": [
+        "Prescription Meds!! (x1)",
+        "Toothbrush (x1)",
+        "Toothpaste (travel size) (x1)",
+        "Floss (x1)",
+        "Deodorant (x1)",
+        "Razor (x1)",
+        "Hairbrush / Comb (x1)",
+        "Shampoo / Body Wash (travel size) (x1)",
+        "Contacts & Case (x1)",
+        "Contact Solution (small) (x1)",
+        "Sunscreen (travel size) (x1)",
+        "SPF Lip Balm (x1)",
+        "Body Wipes / Baby Wipes (x1)",
+        "Tissues / Travel TP (x1)",
+        "Mini Hand Sanitizer",
+        "Carmex",
+        "Spare Hair Ties or Scrunchies",
+        "Nail Clippers ",
+        "Tweezers",
+        "Lint Roller (travel size)",
+        "Mini Mirror"
+      ]
+    },
+    {
+      "category": "Electronics",
+      "items": [
+        "Phone + Charger Cable (x1)",
+        "iPad & Pencil & Pencil Adapter (x1)",
+        "Laptop & Charger (x1)",
+        "Battery Packs (x2)",
+        "Wall Plug Adapter (x1)",
+        "AirPods (x1)",
+        "Apple Watch Charger (x1)",
+        "Portable Mini Fan (x1)"
+      ]
+    },
+    {
+      "category": "Festival Grounds Gear",
+      "items": [
+        "Fanny Pack",
+        "LunchBox",
+        "Dust Mask",
+        "Flashlight or Headlamp",
+        "Earplugs",
+        "Electrolyte Powder or Liquid IV",
+        "Mini LED String Lights"
+      ]
+    },
+
+    {
+      "category": "Travel Utility Gear",
+      "items": [
+        "Trash Bag for Dirty Clothes",
+        "Plastic Grocery Bag (for shoes/laundry)",
+        "Extra Batteries",
+        "Reusable Tote Bag",
+        "Lighter",
+        "Glasses Cleaner Kit",
+        "Glasses cases"
+      ]
+    },
+    {
+      "category": "Gear",
+      "items": [
+        "Camelbak or Small Hydration Pack (x1)",
+        "Mini Hand Sanitizer (x1)",
+        "Clear Backpack / Fanny Pack (x1)",
+        "Earplugs (x1)",
+        "Dust Mask or N95 (x1)",
+        "Cooling Towel / Band (x1)",
+        "Small Flashlight or Headlamp (x1)"
+      ]
+    },
+    {
+      "category": "Fun Extras",
+      "items": [
+        "LED Poi",
+        "Hackie Sack",
+        "Deck of Cards",
+        "Diffraction glasses",
+        "Sketchpad + Pens",
+        "Polaroid or Instax Camera",
+        "Notebook for Journaling or Poetry",
+        "Craft Beads and String",
+        "Face Paint Sticks",
+        "Stickers or Trinkets to Gift",
+        "Funky Folding Fan",
+        "Plastic Dinosaur Toy",
+        "Tarot Deck"
+      ]
+    }
+  ],
+  "info": [
+    {
+      "title": "Lost Lands Music Festival",
+      "subtitle": "Official Festival Weekend",
+
+      "startTimestamp": "2025-09-18T13:30:00-04:00",
+      "endTimestamp": "2025-09-22T04:00:00-04:00",
+      "durationHours": 86.5,
+      "timezone": "America/New_York",
+      "duration": 82,
+      "icon": "🦖",
+      "people": [
+        "Ryan",
+        "Alyssa",
+        "Audra",
+        "Andrew",
+        "Esteban",
+        "Stephen",
+        "KT",
+        "John"
+      ],
+      "content": "Lost Lands returns to Legend Valley for a weekend of bass, dinosaurs, and unforgettable moments. Gates open at 2:00 PM Friday. Main stage ends Sunday night. We're staying nearby and carpooling each day. Bring essentials, pack light.",
+      "location": {
+        "name": "Legend Valley",
+        "address": "7585 Kindle Rd, Thornville, OH 43076",
+        "lat": 39.9378,
+        "lng": -82.4067,
+        "mapsLink": "https://maps.google.com/?q=Legend+Valley",
+        "appleMapsLink": "http://maps.apple.com/?ll=39.9378,-82.4067&q=Legend+Valley"
+      },
+      "links": [
+        {
+          "label": "Official Site",
+          "url": "https://www.lostlandsfestival.com"
+        },
+        {
+          "label": "Lineup",
+          "url": "https://www.lostlandsfestival.com/lineup"
+        },
+        {
+          "label": "Survival Guide",
+          "url": "https://www.lostlandsfestival.com/info"
+        },
+        {
+          "label": "Tickets",
+          "url": "https://lostlands.frontgatetickets.com/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/LostLandsMusicFestival"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/lostlandsfestival"
+        },
+        { "label": "Twitter / X", "url": "https://twitter.com/lost_lands" },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/c/LostLandsFestival"
+        },
+        {
+          "label": "TikTok",
+          "url": "https://www.tiktok.com/@lostlandsfestival"
+        },
+        {
+          "label": "Subreddit",
+          "url": "https://www.reddit.com/r/LostLandsMusicFest/"
+        }
+      ],
+      "status": "planned",
+      "notes": "Don’t forget earplugs, IDs, chargers, outfits per day, meds, sunscreen, and portable snacks. Avoid overpacking. Bring good vibes."
+    },
+
+    {
+      "title": "Activities",
+      "content": "Silent Disco, Yoga, Workshops, Live Painting, Sound Camps"
+    },
+    {
+      "title": "Travel Dates",
+      "start": "2025-09-18T08:50:00-07:00",
+      "end": "2025-09-22T21:35:00-07:00",
+      "summary": "Thu Sep 18 – Mon Sep 22, 2025",
+      "timezone": "America/Los_Angeles",
+      "notes": "Depart Oakland early Thursday, return Monday night. Includes pre-festival travel and post-festival recovery day."
+    },
+
+    {
+      "title": "What to Bring",
+      "content": "ID, ticket, earplugs, hydration pack, dino onesie, good vibes."
+    },
+    {
+      "title": "Flight to Ohio",
+      "subtitle": "OAK → CMH (via DEN)",
+      "datetime": "2025-09-18T08:50:00-07:00",
+      "duration": 475,
+      "icon": "🛫",
+      "people": ["Ryan", "Alyssa"],
+      "content": "Southwest Airlines • WN744 (OAK → DEN), WN2434 (DEN → CMH). EarlyBird Check-In® included. Open seating.",
+      "location": {
+        "name": "Oakland International Airport (OAK)",
+        "address": "1 Airport Dr, Oakland, CA 94621",
+        "lat": 37.7126,
+        "lng": -122.2197,
+        "mapsLink": "https://www.google.com/maps?q=Oakland+International+Airport",
+        "appleMapsLink": "http://maps.apple.com/?ll=37.7126,-122.2197&q=Oakland+International+Airport"
+      },
+      "links": [
+        {
+          "label": "Flight Info (Southwest)",
+          "url": "https://www.southwest.com"
+        }
+      ],
+      "status": "confirmed",
+      "notes": "Change planes in Denver (DEN). Arrives CMH at 7:45 PM local time. Total travel time 7h 55m."
+    },
+    {
+      "title": "Return Flight to California",
+      "subtitle": "CMH → OAK (via LAS)",
+      "datetime": "2025-09-22T18:05:00-04:00",
+      "duration": 390,
+      "icon": "🛬",
+      "people": ["Ryan", "Alyssa"],
+      "content": "Southwest Airlines • WN845 (CMH → LAS), WN1020 (LAS → OAK). EarlyBird Check-In® included. Open seating.",
+      "location": {
+        "name": "John Glenn Columbus Intl Airport (CMH)",
+        "address": "4600 International Gateway, Columbus, OH 43219",
+        "lat": 39.998,
+        "lng": -82.8919,
+        "mapsLink": "https://www.google.com/maps?q=John+Glenn+Columbus+Intl",
+        "appleMapsLink": "http://maps.apple.com/?ll=39.9980,-82.8919&q=John+Glenn+Columbus+Intl"
+      },
+      "links": [
+        {
+          "label": "Flight Info (Southwest)",
+          "url": "https://www.southwest.com"
+        }
+      ],
+      "status": "confirmed",
+      "notes": "Change planes in Las Vegas (LAS). Arrives OAK at 9:35 PM local time. Total travel time 6h 30m."
+    }
+  ]
+}

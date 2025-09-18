@@ -1,0 +1,422 @@
+{
+  "day": "Friday",
+  "meta": {
+    "source": "Saturday.csv",
+    "date": "2025-09-20",
+    "startLocal": "13:00",
+    "slotMinutes": 15,
+    "headers": [
+      "SATURDAY, SEPTEMBER 20TH",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "stages": [
+      "SATURDAY, SEPTEMBER 20TH"
+    ],
+    "rowCount": 67,
+    "setCount": 66
+  },
+  "schedule": [
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "TIME",
+      "startISO": "2025-09-20T17:15:00.000Z",
+      "endISO": "2025-09-20T17:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "1:00 PM",
+      "startISO": "2025-09-20T17:30:00.000Z",
+      "endISO": "2025-09-20T17:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "1:15 PM",
+      "startISO": "2025-09-20T17:45:00.000Z",
+      "endISO": "2025-09-20T18:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "1:30 PM",
+      "startISO": "2025-09-20T18:00:00.000Z",
+      "endISO": "2025-09-20T18:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "1:45 PM",
+      "startISO": "2025-09-20T18:15:00.000Z",
+      "endISO": "2025-09-20T18:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "2:00 PM",
+      "startISO": "2025-09-20T18:30:00.000Z",
+      "endISO": "2025-09-20T18:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "2:15 PM",
+      "startISO": "2025-09-20T18:45:00.000Z",
+      "endISO": "2025-09-20T19:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "2:30 PM",
+      "startISO": "2025-09-20T19:00:00.000Z",
+      "endISO": "2025-09-20T19:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "2:45 PM",
+      "startISO": "2025-09-20T19:15:00.000Z",
+      "endISO": "2025-09-20T19:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "3:00 PM",
+      "startISO": "2025-09-20T19:30:00.000Z",
+      "endISO": "2025-09-20T19:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "3:15 PM",
+      "startISO": "2025-09-20T19:45:00.000Z",
+      "endISO": "2025-09-20T20:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "3:30 PM",
+      "startISO": "2025-09-20T20:00:00.000Z",
+      "endISO": "2025-09-20T20:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "3:45 PM",
+      "startISO": "2025-09-20T20:15:00.000Z",
+      "endISO": "2025-09-20T20:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "4:00 PM",
+      "startISO": "2025-09-20T20:30:00.000Z",
+      "endISO": "2025-09-20T20:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "4:15 PM",
+      "startISO": "2025-09-20T20:45:00.000Z",
+      "endISO": "2025-09-20T21:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "4:30 PM",
+      "startISO": "2025-09-20T21:00:00.000Z",
+      "endISO": "2025-09-20T21:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "4:45 PM",
+      "startISO": "2025-09-20T21:15:00.000Z",
+      "endISO": "2025-09-20T21:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "5:00 PM",
+      "startISO": "2025-09-20T21:30:00.000Z",
+      "endISO": "2025-09-20T21:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "5:15 PM",
+      "startISO": "2025-09-20T21:45:00.000Z",
+      "endISO": "2025-09-20T22:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "5:30 PM",
+      "startISO": "2025-09-20T22:00:00.000Z",
+      "endISO": "2025-09-20T22:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "5:45 PM",
+      "startISO": "2025-09-20T22:15:00.000Z",
+      "endISO": "2025-09-20T22:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "6:00 PM",
+      "startISO": "2025-09-20T22:30:00.000Z",
+      "endISO": "2025-09-20T22:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "6:15 PM",
+      "startISO": "2025-09-20T22:45:00.000Z",
+      "endISO": "2025-09-20T23:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "6:30 PM",
+      "startISO": "2025-09-20T23:00:00.000Z",
+      "endISO": "2025-09-20T23:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "6:45 PM",
+      "startISO": "2025-09-20T23:15:00.000Z",
+      "endISO": "2025-09-20T23:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "7:00 PM",
+      "startISO": "2025-09-20T23:30:00.000Z",
+      "endISO": "2025-09-20T23:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "7:15 PM",
+      "startISO": "2025-09-20T23:45:00.000Z",
+      "endISO": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "7:30 PM",
+      "startISO": "2025-09-21T00:00:00.000Z",
+      "endISO": "2025-09-21T00:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "7:45 PM",
+      "startISO": "2025-09-21T00:15:00.000Z",
+      "endISO": "2025-09-21T00:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "8:00 PM",
+      "startISO": "2025-09-21T00:30:00.000Z",
+      "endISO": "2025-09-21T00:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "8:15 PM",
+      "startISO": "2025-09-21T00:45:00.000Z",
+      "endISO": "2025-09-21T01:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "8:30 PM",
+      "startISO": "2025-09-21T01:00:00.000Z",
+      "endISO": "2025-09-21T01:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "8:45 PM",
+      "startISO": "2025-09-21T01:15:00.000Z",
+      "endISO": "2025-09-21T01:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "9:00 PM",
+      "startISO": "2025-09-21T01:30:00.000Z",
+      "endISO": "2025-09-21T01:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "9:15 PM",
+      "startISO": "2025-09-21T01:45:00.000Z",
+      "endISO": "2025-09-21T02:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "9:30 PM",
+      "startISO": "2025-09-21T02:00:00.000Z",
+      "endISO": "2025-09-21T02:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "9:45 PM",
+      "startISO": "2025-09-21T02:15:00.000Z",
+      "endISO": "2025-09-21T02:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "10:00 PM",
+      "startISO": "2025-09-21T02:30:00.000Z",
+      "endISO": "2025-09-21T02:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "10:15 PM",
+      "startISO": "2025-09-21T02:45:00.000Z",
+      "endISO": "2025-09-21T03:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "10:30 PM",
+      "startISO": "2025-09-21T03:00:00.000Z",
+      "endISO": "2025-09-21T03:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "10:45 PM",
+      "startISO": "2025-09-21T03:15:00.000Z",
+      "endISO": "2025-09-21T03:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "11:00 PM",
+      "startISO": "2025-09-21T03:30:00.000Z",
+      "endISO": "2025-09-21T03:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "11:15 PM",
+      "startISO": "2025-09-21T03:45:00.000Z",
+      "endISO": "2025-09-21T04:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "11:30 PM",
+      "startISO": "2025-09-21T04:00:00.000Z",
+      "endISO": "2025-09-21T04:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "11:45 PM",
+      "startISO": "2025-09-21T04:15:00.000Z",
+      "endISO": "2025-09-21T04:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "12:00 AM",
+      "startISO": "2025-09-21T04:30:00.000Z",
+      "endISO": "2025-09-21T04:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "12:15 AM",
+      "startISO": "2025-09-21T04:45:00.000Z",
+      "endISO": "2025-09-21T05:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "12:30 AM",
+      "startISO": "2025-09-21T05:00:00.000Z",
+      "endISO": "2025-09-21T05:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "12:45 AM",
+      "startISO": "2025-09-21T05:15:00.000Z",
+      "endISO": "2025-09-21T05:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "1:00 AM",
+      "startISO": "2025-09-21T05:30:00.000Z",
+      "endISO": "2025-09-21T05:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "1:15 AM",
+      "startISO": "2025-09-21T05:45:00.000Z",
+      "endISO": "2025-09-21T06:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "1:30 AM",
+      "startISO": "2025-09-21T06:00:00.000Z",
+      "endISO": "2025-09-21T06:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "1:45 AM",
+      "startISO": "2025-09-21T06:15:00.000Z",
+      "endISO": "2025-09-21T06:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "2:00 AM",
+      "startISO": "2025-09-21T06:30:00.000Z",
+      "endISO": "2025-09-21T06:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "2:15 AM",
+      "startISO": "2025-09-21T06:45:00.000Z",
+      "endISO": "2025-09-21T07:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "2:30 AM",
+      "startISO": "2025-09-21T07:00:00.000Z",
+      "endISO": "2025-09-21T07:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "2:45 AM",
+      "startISO": "2025-09-21T07:15:00.000Z",
+      "endISO": "2025-09-21T07:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "3:00 AM",
+      "startISO": "2025-09-21T07:30:00.000Z",
+      "endISO": "2025-09-21T07:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "3:15 AM",
+      "startISO": "2025-09-21T07:45:00.000Z",
+      "endISO": "2025-09-21T08:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "3:30 AM",
+      "startISO": "2025-09-21T08:00:00.000Z",
+      "endISO": "2025-09-21T08:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "3:45 AM",
+      "startISO": "2025-09-21T08:15:00.000Z",
+      "endISO": "2025-09-21T08:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "4:00 AM",
+      "startISO": "2025-09-21T08:30:00.000Z",
+      "endISO": "2025-09-21T08:45:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "4:15 AM",
+      "startISO": "2025-09-21T08:45:00.000Z",
+      "endISO": "2025-09-21T09:00:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "4:30 AM",
+      "startISO": "2025-09-21T09:00:00.000Z",
+      "endISO": "2025-09-21T09:15:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "4:45 AM",
+      "startISO": "2025-09-21T09:15:00.000Z",
+      "endISO": "2025-09-21T09:30:00.000Z"
+    },
+    {
+      "stage": "SATURDAY, SEPTEMBER 20TH",
+      "artist": "5:00 AM",
+      "startISO": "2025-09-21T09:30:00.000Z",
+      "endISO": "2025-09-21T03:59:00.000Z"
+    }
+  ]
+}

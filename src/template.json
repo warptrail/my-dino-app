@@ -1,0 +1,27 @@
+{
+  "title": "Event Title Here",
+  "subtitle": "Optional Subtitle",
+  "datetime": "2025-09-18T13:30:00-04:00",
+  "startTimestamp": "2025-09-18T13:30:00-04:00",
+  "endTimestamp": "2025-09-22T04:00:00-04:00",
+  "durationHours": 86.5,
+  "timezone": "America/New_York",
+  "duration": 86.5,
+  "icon": "📍",
+  "people": ["Ryan", "Clarg"],
+  "content": "Short description of what this is, where to be, what to bring, etc.",
+  "location": {
+    "name": "Location Name",
+    "address": "123 Dino Blvd, Jurassic, OH 43219",
+    "lat": 39.999,
+    "lng": -82.888,
+    "mapsLink": "https://maps.google.com/?q=Location+Name",
+    "appleMapsLink": "http://maps.apple.com/?ll=39.999,-82.888&q=Location+Name"
+  },
+  "links": [
+    { "label": "Official Site", "url": "https://example.com" },
+    { "label": "Directions", "url": "https://maps.google.com" }
+  ],
+  "status": "planned",
+  "notes": "Any personal reminders, things to remember, or special instructions."
+}
