@@ -672,11 +672,6 @@
       "timezone": "America/Los_Angeles",
       "notes": "Depart Oakland early Thursday, return Monday night. Includes pre-festival travel and post-festival recovery day."
     },
-
-    {
-      "title": "What to Bring",
-      "content": "ID, ticket, earplugs, hydration pack, dino onesie, good vibes."
-    },
     {
       "title": "Flight to Ohio",
       "subtitle": "OAK → CMH (via DEN)",
@@ -684,7 +679,7 @@
       "duration": 475,
       "icon": "🛫",
       "people": ["Ryan", "Alyssa"],
-      "content": "Southwest Airlines • WN744 (OAK → DEN), WN2434 (DEN → CMH). EarlyBird Check-In® included. Open seating.",
+      "content": "Southwest Airlines Flight 744 • (WN744) (OAK → DEN) --> Southwest Airlines Flight 2434 (WN2434) (DEN → CMH). ",
       "location": {
         "name": "Oakland International Airport (OAK)",
         "address": "1 Airport Dr, Oakland, CA 94621",
@@ -695,12 +690,16 @@
       },
       "links": [
         {
-          "label": "Flight Info (Southwest)",
-          "url": "https://www.southwest.com"
+          "label": "SOUTHWEST 744 - OAK to DEN ",
+          "url": "https://www.flightaware.com/live/flight/SWA744"
+        },
+        {
+          "label": "SOUTHWEST 744 - DEN to CMH ",
+          "url": "https://www.flightaware.com/live/flight/SWA2434"
         }
       ],
       "status": "confirmed",
-      "notes": "Change planes in Denver (DEN). Arrives CMH at 7:45 PM local time. Total travel time 7h 55m."
+      "notes": "Change planes in Denver (DEN). Estimated layover time: ~3h 15m. Arrives CMH at 7:45 PM local time. Total travel time 7h 55m."
     },
     {
       "title": "Return Flight to California",
@@ -709,7 +708,7 @@
       "duration": 390,
       "icon": "🛬",
       "people": ["Ryan", "Alyssa"],
-      "content": "Southwest Airlines • WN845 (CMH → LAS), WN1020 (LAS → OAK). EarlyBird Check-In® included. Open seating.",
+      "content": "Southwest Airlines • WN845 (CMH → LAS), WN1020 (LAS → OAK). ",
       "location": {
         "name": "John Glenn Columbus Intl Airport (CMH)",
         "address": "4600 International Gateway, Columbus, OH 43219",
@@ -721,7 +720,7 @@
       "links": [
         {
           "label": "Flight Info (Southwest)",
-          "url": "https://www.southwest.com"
+          "url": "https://www.flightradar24.com/data/flights/"
         }
       ],
       "status": "confirmed",
