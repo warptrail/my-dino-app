@@ -6,6 +6,7 @@ import timezone from 'dayjs/plugin/timezone';
 import data from './data.json';
 
 import ArtistBrowser from './components/ArtistBrowser';
+import ArtistCount from './components/CountBox';
 import InfoCard from './components/InfoCard';
 import PackingList from './components/PackingList';
 import Schedule from './components/Schedule';
@@ -118,6 +119,9 @@ export default function App() {
         <SectionTitle>Artist Lineup </SectionTitle>
         {/* <ScrollWindow> */}
         <ArtistBrowser schedule={data.schedule} />
+
+        <ArtistCount schedule={data.schedule} />
+
         {/* </ScrollWindow> */}
 
         <SectionTitle>Festival Schedule </SectionTitle>
